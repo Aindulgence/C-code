@@ -1,0 +1,22 @@
+﻿生成启动时间为 2022/3/5 18:48:23。
+     1>项目“D:\text.3.2\note.1\project.02\project.02\project.02\project.02.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“D:\text.3.2\note.1\project.02\project.02\Debug\”。
+       InitializeBuildStatus:
+         正在创建“Debug\project.02.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\3.2\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt test.c
+         test.c
+       Link:
+         D:\3.2\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\text.3.2\note.1\project.02\project.02\Debug\project.02.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\project.02.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\text.3.2\note.1\project.02\project.02\Debug\project.02.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\text.3.2\note.1\project.02\project.02\Debug\project.02.lib" /MACHINE:X86 Debug\test.obj
+         project.02.vcxproj -> D:\text.3.2\note.1\project.02\project.02\Debug\project.02.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\text.3.2\note.1\project.02\project.02\Debug\project.02.exe;#1" /manifest Debug\project.02.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\project.02.unsuccessfulbuild”。
+         正在对“Debug\project.02.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\text.3.2\note.1\project.02\project.02\project.02\project.02.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.79
