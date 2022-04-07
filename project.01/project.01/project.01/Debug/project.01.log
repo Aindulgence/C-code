@@ -1,0 +1,24 @@
+﻿生成启动时间为 2022/4/5 19:19:08。
+     1>项目“D:\text.3.2\note.1\project.01\project.01\project.01\project.01.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\project.01.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\3.2\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt game.c
+         game.c
+     1>d:\text.3.2\note.1\project.01\project.01\project.01\game.c(67): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\3.2\vc\include\stdio.h(304) : 参见“scanf”的声明
+       Link:
+         D:\3.2\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\text.3.2\note.1\project.01\project.01\Debug\project.01.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\project.01.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\text.3.2\note.1\project.01\project.01\Debug\project.01.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\text.3.2\note.1\project.01\project.01\Debug\project.01.lib" /MACHINE:X86 Debug\game.obj
+         Debug\text.obj
+         LINK : 没有找到 D:\text.3.2\note.1\project.01\project.01\Debug\project.01.exe 或上一个增量链接没有生成它；正在执行完全链接
+         project.01.vcxproj -> D:\text.3.2\note.1\project.01\project.01\Debug\project.01.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\text.3.2\note.1\project.01\project.01\Debug\project.01.exe;#1" /manifest Debug\project.01.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\project.01.unsuccessfulbuild”。
+         正在对“Debug\project.01.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\text.3.2\note.1\project.01\project.01\project.01\project.01.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.35
