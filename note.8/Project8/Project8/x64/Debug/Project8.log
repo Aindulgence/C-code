@@ -1,0 +1,4 @@
+﻿  text.c
+D:\text.1.14\note.8\Project8\Project8\text.c(12,12): error C2057: 应输入常量表达式
+D:\text.1.14\note.8\Project8\Project8\text.c(12,12): error C2466: 不能分配常量大小为 0 的数组
+D:\text.1.14\note.8\Project8\Project8\text.c(12,13): error C2133: “a”: 未知的大小
